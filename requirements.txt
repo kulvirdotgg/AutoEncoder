@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask_Cors==4.0.0
+numpy==1.25.1
+Requests==2.31.0
+torch==2.0.1
+torchvision==0.15.2
